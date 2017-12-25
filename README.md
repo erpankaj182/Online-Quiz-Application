@@ -32,7 +32,7 @@ php Web Application Which Selects 15 Questions Randomly One By One from the pool
 ![Screenshot1](/screenshots/10.png)
 
 ### 11. Add New Quiz 
-![Screenshot1](/screenshots/11.png)
+![Screenshot1](/screenshots/11a.png)
 
 ### 12. Add New Question 
 ![Screenshot1](/screenshots/12.png)
